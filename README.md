@@ -7,8 +7,8 @@ A simple task management system built with Next.js, Tailwind CSS, and Golang, de
 - ☁️ **Deployed on Vercel** – Accessible from anywhere.
 
 ## 🔗 Live Demo
-- **Frontend:** [Frontend URL](#)
-- **Backend:** [Backend URL](#)
+- **Frontend:** [[Frontend URL](https://zocket-task-manager-cgvm.vercel.app/)](#)
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, TypeScript, Tailwind CSS
