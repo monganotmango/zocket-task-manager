@@ -13,7 +13,7 @@ A simple task management system built with Next.js, Tailwind CSS, and Golang, de
 ## 🛠️ Tech Stack
 - **Frontend:** Next.js, TypeScript, Tailwind CSS
 - **Backend:** Golang, MongoDB
-- **Deployment:** Vercel (Frontend), Render/Fly.io (Backend)
+- **Deployment:** Vercel (Frontend), Render(Backend)
 
 ## 📦 Installation & Setup
 
@@ -45,4 +45,4 @@ npm run dev
 ## 📜 Notes
 - This project was developed as part of a technical assessment.
 - The system does not include authentication.
-- The frontend is deployed on Vercel, and the backend is hosted on Render/Fly.io.
+- The frontend is deployed on Vercel, and the backend is hosted on Render.
